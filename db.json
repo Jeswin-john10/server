@@ -1,20 +1,29 @@
 {
   "userdata": [
     {
-      "name": "jeswin john",
-      "dob": "2004-03-15",
-      "state": "kerala",
-      "district": "palakkad",
-      "city": "alathur",
-      "contact": "9544660017",
-      "email": "jeswinjohn03@gmail.com",
-      "gender": "male",
-      "hobbies": "sports",
-      "photo": "blob:http://localhost:5173/bfb7dae7-4f3e-44af-83b5-adb36bc6ce5d",
-      "institution": "diploma in computer engineering",
-      "year": "2024",
-      "cgpa": "8.49",
-      "id": 1
+      "id": 1,
+      "name": "John Doe",
+      "position": "Developer",
+      "salary": 60000
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "position": "Designer",
+      "salary": 55000
+    }
+  ],
+  "ad": [
+    {
+      "name": "Jane Smith",
+      "id": 2,
+      "date": "2025-03-11"
+    },
+    {
+      "name": "John Doe",
+      "id": 1,
+      "date": "2025-01-28",
+      "reid": "42"
     }
   ]
 }
